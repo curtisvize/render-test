@@ -1,0 +1,25 @@
+{
+  "name": "render-test",
+  "version": "1.0.0",
+  "description": "Render test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtisvize/render-test.git"
+  },
+  "author": "Curtis Vize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtisvize/render-test/issues"
+  },
+  "homepage": "https://github.com/curtisvize/render-test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
